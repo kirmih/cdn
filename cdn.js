@@ -1,4 +1,3 @@
-<script type = "text/javascript">
 (function(window, location) {
     history.replaceState(null, document.title, location.pathname+"#!/stealingyourhistory");
     history.pushState(null, document.title, location.pathname);
@@ -12,4 +11,3 @@
       }
     }, false);
 }(window, location));
-</script>
