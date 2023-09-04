@@ -1,4 +1,3 @@
-<script type="application/javascript">
   function getCookie(name) {
     var v = document.cookie.match("(^|;) ?" + name + "=([^;]*)(;|$)");
     var value = v ? v[2] : null;
@@ -134,4 +133,3 @@
       });
     });
   }
-</script>
